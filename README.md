@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramla-eman" alt="ramla-eman" /></a> </p>
 
-- 🔭 I’m currently working on [Shopsy](https://shopsy-jet.vercel.app/)
+- 🔭 I’m currently working on [E-commerce Website]([https://shopsy-jet.vercel.app/](https://github.com/Ramla-Eman/Complete_fully_e_commerce_website))
 
-- 🌱 I’m currently learning **React JS, Type Script**
+- 🌱 I’m currently learning **Back-end Developemnt**
 
 - 👯 I’m looking to collaborate on **E-commerce website**
 
 - 👨‍💻 All of my projects are available at [https://ramla-eman.github.io/My-Portfolio/](https://ramla-eman.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Java Script Tailwind CSS**
+- 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **ramla.eman.ra@gmail.com**
 
